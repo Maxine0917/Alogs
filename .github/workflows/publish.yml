@@ -1,0 +1,80 @@
+name: Sync and publish Alogs
+
+on:
+  schedule:
+    - cron: '2-59/5 * * * *'
+  workflow_dispatch:
+    inputs:
+      github_sync:
+        description: '同时同步 GitHub 来源（仍遵守每日名额）'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths-ignore: ['README.md', 'docs/**']
+
+permissions:
+  contents: read
+  actions: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: alogs-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      GH_TOKEN: ${{ github.token }}
+      MODEL_CALLS_ENABLED: 'true'
+      LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+      LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+      LLM_MODEL: ${{ secrets.LLM_MODEL }}
+      LLM_EXTRA_JSON: ${{ secrets.LLM_EXTRA_JSON }}
+      LLM_REASONING_TOKENS: ${{ secrets.LLM_REASONING_TOKENS }}
+      FORCE_GITHUB_SYNC: ${{ inputs.github_sync && 'true' || 'false' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Restore persistent state
+        run: python scripts/state.py restore
+      - name: Verify synchronization rules
+        run: python -m unittest discover -s tests -v
+      - name: Collect and build public reading data
+        id: sync
+        run: python scripts/cloud_sync.py
+      - name: Checkpoint databases
+        if: always() && steps.sync.outcome != 'skipped'
+        run: python scripts/state.py checkpoint
+      - name: Save persistent state
+        if: always() && steps.sync.outcome != 'skipped'
+        uses: actions/upload-artifact@v4
+        with:
+          name: alogs-state
+          path: |
+            .sync/content.sqlite3
+            .sync/github.sqlite3
+            .sync/schedule.json
+            .sync/last-run.json
+          if-no-files-found: error
+          retention-days: 30
+          include-hidden-files: true
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+          retention-days: 1
+      - name: Publish website
+        id: deploy
+        uses: actions/deploy-pages@v4
+      - name: Bound state and deployment artifact storage
+        if: always() && steps.sync.outcome != 'skipped'
+        run: python scripts/state.py prune

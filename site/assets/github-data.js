@@ -1,0 +1,3849 @@
+window.ALOGS_GITHUB_DATA = {
+  "schemaVersion": 3,
+  "capturedAt": "2026-11-10T12:32:38Z",
+  "scope": "GitHub 与 skills.sh · 每天最多 5 个 Skills 和 5 个项目",
+  "selectionOrder": [
+    "sourceStars",
+    "installs24h",
+    "firstQueuedAt",
+    "id"
+  ],
+  "recommendationPolicy": {
+    "minRepoStars": 1000,
+    "starBasis": "original-source",
+    "projectScope": "independent-software",
+    "quotaBasis": "active-recommendations"
+  },
+  "sources": [
+    {
+      "repo": "VoltAgent/awesome-agent-skills",
+      "head": "6d483e29da745a010d88974ef6d0e50d15755e9a",
+      "last_success": "2026-11-10T03:03:16Z",
+      "error": null,
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "status": "ok",
+      "catalogCount": 1251
+    },
+    {
+      "repo": "sickn33/agentic-awesome-skills",
+      "head": "55d9399a4ea05dccbfccfa63ad430478c74ca1e9",
+      "last_success": "2026-11-10T03:03:16Z",
+      "error": null,
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "status": "ok",
+      "catalogCount": 2955
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "head": "38fcd0dd79441a4aacf9ade85f8cf131f6a372c7",
+      "last_success": "2026-11-10T03:03:16Z",
+      "error": null,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "status": "ok",
+      "catalogCount": 125
+    },
+    {
+      "repo": "jaywcjlove/awesome-mac",
+      "head": "8e0f13607834381a1a31ceef1315216af912abe1",
+      "last_success": "2026-11-10T03:03:16Z",
+      "error": null,
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "status": "ok",
+      "catalogCount": 1535
+    },
+    {
+      "repo": "awesome-selfhosted/awesome-selfhosted",
+      "head": "55d61d874370f213f5553d5bbd0f5814b2872e45",
+      "last_success": "2026-11-10T03:03:16Z",
+      "error": null,
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "status": "ok",
+      "catalogCount": 1257
+    },
+    {
+      "repo": "521xueweihan/HelloGitHub",
+      "head": "d65699c2892f3ad7516398a3fbd3855913f9d17d",
+      "last_success": "2026-11-10T03:03:16Z",
+      "error": null,
+      "url": "https://github.com/521xueweihan/HelloGitHub",
+      "status": "ok",
+      "catalogCount": 4264
+    },
+    {
+      "repo": "github-trending-weekly",
+      "head": "f555f4725ef30b4fdf0c541719e3fbf2f87c7994e3d93940bf81d786e7c57404",
+      "last_success": "2026-11-10T11:22:38Z",
+      "error": null,
+      "url": "https://github.com/trending?since=weekly",
+      "status": "ok",
+      "catalogCount": 27
+    },
+    {
+      "repo": "skills.sh",
+      "head": "cdc18cd6437c627d908afd710293e8a0ccbd32e2a1b708bcc449ccaf8b38556d",
+      "last_success": "2026-11-10T09:50:20Z",
+      "error": null,
+      "url": "https://skills.sh/trending",
+      "status": "ok",
+      "catalogCount": 16
+    }
+  ],
+  "projects": [
+    {
+      "id": "anthropics/skills",
+      "type": "project",
+      "repo": "anthropics/skills",
+      "name": "skills",
+      "owner": "anthropics",
+      "titleZh": "把常用工作方法，变成 Agent 能重复使用的技能",
+      "summary": "Anthropic 的 Agent Skills 示例库。把说明、脚本与资源放进技能目录，让 Claude 按既定流程处理文档、设计、开发与其他任务。",
+      "sourceName": "此前的 GitHub 发现",
+      "url": "https://github.com/anthropics/skills",
+      "readme": "https://github.com/anthropics/skills#readme",
+      "descriptionOrigin": "editorial",
+      "catalogUrl": "https://github.com/anthropics/skills#readme",
+      "repoStars": 191783,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills",
+      "sourceStars": 191783,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "excluded",
+      "projectReason": "project-collection",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [],
+      "projectSourceRef": null,
+      "publishedAt": "2026-11-09T14:24:12Z",
+      "updatedAt": "2026-11-09T14:24:12Z",
+      "firstKind": "history",
+      "discoveryDate": "2026-11-09",
+      "activities": [
+        {
+          "day": "2026-11-09",
+          "kind": "new",
+          "publishedAt": "2026-11-09T14:24:12Z",
+          "detectedAt": "2026-11-09T14:24:12Z",
+          "recommended": 0
+        }
+      ],
+      "recommendation": {
+        "eligible": false,
+        "reason": "project-collection",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "521xueweihan/HelloGitHub",
+        "github-trending-weekly"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub119.md",
+          "description": "Claude 官方开源的 Skills 教程。该项目是 Anthropic 官方开源的 Agent Skills 仓库，介绍如何通过标准化的 SKILL.md 文件结构，将提示词和工具调用封装为插件形式，为 AI 助手提供可动态加载的技能包，以可复用的方式更好地完成特定任务。 『上一期』 | 反馈和建议 | 『下一期』 --- 👉 来！推荐开源项目 👈 微信中搜：HelloGitHub 关注公众号 不仅能第一时间收到推送，还有回馈粉丝的活动 如果文中的图刷不出来，可以点击 这里。 ## 赞助"
+        },
+        {
+          "source": "github-trending-weekly",
+          "url": "https://github.com/trending?since=weekly",
+          "description": "Public repository for Agent Skills"
+        }
+      ],
+      "weeklyRank": 3,
+      "weeklyStars": 3796,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly"
+    },
+    {
+      "type": "project",
+      "name": "AI Blog Search (RAG)",
+      "url": "https://github.com/shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/ai_blog_search",
+      "summary": "Agentic search over blog content, built on LangGraph",
+      "sourceName": "Shubhamsaboo/awesome-llm-apps",
+      "catalogUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/README.md",
+      "descriptionOrigin": "source",
+      "repo": "shubhamsaboo/awesome-llm-apps",
+      "owner": "shubhamsaboo",
+      "repoStars": 144341,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "shubhamsaboo/awesome-llm-apps",
+      "sourceUrl": "https://github.com/shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/ai_blog_search",
+      "sourceStars": 144341,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "excluded",
+      "projectReason": "project-subdirectory",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [],
+      "projectSourceRef": null,
+      "id": "project:afe24a6a27121d206afda5a9",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "updated",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "project-subdirectory",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "Shubhamsaboo/awesome-llm-apps"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/README.md",
+          "description": "Agentic search over blog content, built on LangGraph"
+        }
+      ]
+    },
+    {
+      "type": "project",
+      "name": "Hybrid Search RAG (Cloud)",
+      "url": "https://github.com/shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/hybrid_search_rag",
+      "summary": "Keyword plus vector search feeding Claude",
+      "sourceName": "Shubhamsaboo/awesome-llm-apps",
+      "catalogUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/README.md",
+      "descriptionOrigin": "source",
+      "repo": "shubhamsaboo/awesome-llm-apps",
+      "owner": "shubhamsaboo",
+      "repoStars": 144341,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "shubhamsaboo/awesome-llm-apps",
+      "sourceUrl": "https://github.com/shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/hybrid_search_rag",
+      "sourceStars": 144341,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "excluded",
+      "projectReason": "project-subdirectory",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [],
+      "projectSourceRef": null,
+      "id": "project:bff755a1ef1a2108e4a7599e",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "updated",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "project-subdirectory",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "Shubhamsaboo/awesome-llm-apps"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps/blob/main/README.md",
+          "description": "Keyword plus vector search feeding Claude"
+        }
+      ]
+    },
+    {
+      "type": "project",
+      "name": "claude-mem",
+      "repo": "thedotmack/claude-mem",
+      "owner": "thedotmack",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "sourceName": "github-trending-weekly",
+      "catalogUrl": "https://github.com/trending?since=weekly",
+      "descriptionOrigin": "source",
+      "discoveryMethod": "github-weekly",
+      "repoStars": 115624,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "weeklyRank": 11,
+      "weeklyStars": 5130,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "sourceRepo": "thedotmack/claude-mem",
+      "sourceUrl": "https://github.com/thedotmack/claude-mem",
+      "sourceStars": 115624,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "package.json",
+        "hermes/claude-mem/client.py"
+      ],
+      "projectSourceRef": "701a504d9bd696a9d338f06615bad82a0562629f",
+      "id": "project:f99c85ca2e7a76846e9e8e1b",
+      "publishedAt": "2026-11-10T12:29:25Z",
+      "updatedAt": "2026-11-10T12:29:25Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-10T12:29:25Z",
+          "detectedAt": "2026-11-10T11:18:13Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "521xueweihan/HelloGitHub",
+        "github-trending-weekly"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub121.md",
+          "description": "让 Claude Code 拥有长期记忆。这是一款为 Claude Code 打造的持久化记忆插件，能够自动记录编码过程中的关键信息，并在后续会话中自动注入相关上下文。它支持语义压缩、跨会话记忆检索、上下文管理、隐私内容排除，以及 Web 界面查看记忆流。"
+        },
+        {
+          "source": "github-trending-weekly",
+          "url": "https://github.com/trending?since=weekly",
+          "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More"
+        }
+      ],
+      "purposeZh": "记录并压缩 Agent 会话，在后续会话中恢复相关上下文。"
+    },
+    {
+      "id": "sherlock-project/sherlock",
+      "type": "project",
+      "repo": "sherlock-project/sherlock",
+      "name": "sherlock",
+      "owner": "sherlock-project",
+      "titleZh": "用一个用户名，检索不同网站上的公开账号",
+      "summary": "Sherlock 按用户名检查多个社交网站，并把找到的公开账号整理成结果文件。同名账号不一定属于同一个人。",
+      "sourceName": "此前的 GitHub 发现",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "readme": "https://github.com/sherlock-project/sherlock#readme",
+      "descriptionOrigin": "editorial",
+      "catalogUrl": "https://github.com/sherlock-project/sherlock#readme",
+      "repoStars": 108244,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "sherlock-project/sherlock",
+      "sourceUrl": "https://github.com/sherlock-project/sherlock",
+      "sourceStars": 108244,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "docs/README.md",
+        "Dockerfile",
+        "sherlock_project/__main__.py"
+      ],
+      "projectSourceRef": "c588d7c8b476df9f9c84912a05d1430fb8cdcdae",
+      "publishedAt": "2026-11-09T14:24:12Z",
+      "updatedAt": "2026-11-09T14:24:12Z",
+      "firstKind": "history",
+      "discoveryDate": "2026-11-09",
+      "activities": [
+        {
+          "day": "2026-11-09",
+          "kind": "new",
+          "publishedAt": "2026-11-09T14:24:12Z",
+          "detectedAt": "2026-11-09T14:24:12Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "521xueweihan/HelloGitHub"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub34.md",
+          "description": "（英文）在主流社交网站，例如：GitHub、Facebook 等网站上查找指定的用户名是否存在。你想取一个独一无二的名字吗？快试试吧 ### Swift 项目"
+        }
+      ]
+    },
+    {
+      "type": "project",
+      "name": "Scrapling",
+      "repo": "D4Vinci/Scrapling",
+      "owner": "D4Vinci",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "summary": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "sourceName": "github-trending-weekly",
+      "catalogUrl": "https://github.com/trending?since=weekly",
+      "descriptionOrigin": "source",
+      "discoveryMethod": "github-weekly",
+      "repoStars": 100879,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "weeklyRank": 12,
+      "weeklyStars": 8226,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "sourceRepo": "D4Vinci/Scrapling",
+      "sourceUrl": "https://github.com/D4Vinci/Scrapling",
+      "sourceStars": 100879,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Dockerfile",
+        "scrapling/cli.py"
+      ],
+      "projectSourceRef": "c5121c7c06a8595ed3a0a9b7b7dcd6802b5ebfc5",
+      "id": "project:aaec260f2c77c2e6b1a42852",
+      "publishedAt": "2026-11-10T12:29:25Z",
+      "updatedAt": "2026-11-10T12:29:25Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-10T12:29:25Z",
+          "detectedAt": "2026-11-10T11:18:13Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "521xueweihan/HelloGitHub",
+        "github-trending-weekly"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub123.md",
+          "description": "自适应网页改版的 Python 爬虫框架。这是一款自适应的 Python 爬虫框架，解析器会学习网站结构变化，在页面改版后自动重新定位目标元素。内置开箱即用的抓取器，支持多会话并发、断点继续、域名屏蔽和 MCP 服务等功能。来自 @Karim shoair 的分享"
+        },
+        {
+          "source": "github-trending-weekly",
+          "url": "https://github.com/trending?since=weekly",
+          "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev"
+        }
+      ],
+      "purposeZh": "网页数据抓取框架，支持从单次请求到完整网站爬取。"
+    },
+    {
+      "type": "project",
+      "name": "t3code",
+      "repo": "pingdotgg/t3code",
+      "owner": "pingdotgg",
+      "url": "https://github.com/pingdotgg/t3code",
+      "summary": "",
+      "sourceName": "github-trending-weekly",
+      "catalogUrl": "https://github.com/trending?since=weekly",
+      "descriptionOrigin": "source",
+      "discoveryMethod": "github-weekly",
+      "repoStars": 55018,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "weeklyRank": 14,
+      "weeklyStars": 13448,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "sourceRepo": "pingdotgg/t3code",
+      "sourceUrl": "https://github.com/pingdotgg/t3code",
+      "sourceStars": 55018,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "package.json",
+        "apps/desktop/src/boot.ts"
+      ],
+      "projectSourceRef": "f12bb6229c007a12d24fd2e539222733778ac9ea",
+      "id": "project:29fa1163f8e8acc3eb52b58a",
+      "publishedAt": "2026-11-10T12:29:25Z",
+      "updatedAt": "2026-11-10T12:29:25Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-10T12:29:25Z",
+          "detectedAt": "2026-11-10T11:18:13Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "github-trending-weekly",
+          "url": "https://github.com/trending?since=weekly",
+          "description": ""
+        }
+      ],
+      "purposeZh": "通过桌面、网页和手机界面管理本机的编程 Agent。"
+    },
+    {
+      "type": "project",
+      "name": "agent-browser",
+      "repo": "vercel-labs/agent-browser",
+      "owner": "vercel-labs",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "summary": "Browser automation CLI for AI agents",
+      "sourceName": "github-trending-weekly",
+      "catalogUrl": "https://github.com/trending?since=weekly",
+      "descriptionOrigin": "source",
+      "discoveryMethod": "github-weekly",
+      "repoStars": 48898,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "weeklyRank": 6,
+      "weeklyStars": 2994,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "sourceRepo": "vercel-labs/agent-browser",
+      "sourceUrl": "https://github.com/vercel-labs/agent-browser",
+      "sourceStars": 48898,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "package.json",
+        "cli/src/browser_security.rs"
+      ],
+      "projectSourceRef": "e7519957b9067c541825afa21a792fbe1f483047",
+      "id": "project:158d54df136f0b668aa1eb83",
+      "publishedAt": "2026-11-10T12:29:25Z",
+      "updatedAt": "2026-11-10T12:29:25Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-10T12:29:25Z",
+          "detectedAt": "2026-11-10T11:18:13Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "github-trending-weekly",
+          "url": "https://github.com/trending?since=weekly",
+          "description": "Browser automation CLI for AI agents"
+        }
+      ],
+      "purposeZh": "供 AI Agent 操作浏览器的命令行工具。"
+    },
+    {
+      "id": "meta/astryx",
+      "type": "project",
+      "repo": "meta/astryx",
+      "name": "astryx",
+      "owner": "meta",
+      "titleZh": "给人和 Agent 共用的 React 设计系统",
+      "summary": "Meta 开源的 Astryx 设计系统，提供 React 组件、主题与 CLI，可以调整主题和内部组件来形成自己的视觉风格。",
+      "sourceName": "此前的 GitHub 发现",
+      "url": "https://github.com/meta/astryx",
+      "readme": "https://github.com/meta/astryx#readme",
+      "descriptionOrigin": "editorial",
+      "catalogUrl": "https://github.com/meta/astryx#readme",
+      "repoStars": 21485,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "meta/astryx",
+      "sourceUrl": "https://github.com/meta/astryx",
+      "sourceStars": 21485,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "package.json",
+        "apps/example-vite-tailwind/src/App.tsx"
+      ],
+      "projectSourceRef": "392bcef5e61f7ae777b853c5b0cb48a1358ec9d4",
+      "publishedAt": "2026-11-09T14:24:12Z",
+      "updatedAt": "2026-11-09T14:24:12Z",
+      "firstKind": "history",
+      "discoveryDate": "2026-11-09",
+      "activities": [
+        {
+          "day": "2026-11-09",
+          "kind": "new",
+          "publishedAt": "2026-11-09T14:24:12Z",
+          "detectedAt": "2026-11-09T14:24:12Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "521xueweihan/HelloGitHub"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub124.md",
+          "description": "Meta 开源的 React 设计系统。该项目是基于 React 和 StyleX 构建的设计系统，在 Meta 内部经过多年实践。它内置 150+ 组件、7 套可定制主题、深色模式、页面模板和 CLI，对 AI Agent 友好。来自 @JRZYgit 的分享"
+        }
+      ]
+    },
+    {
+      "type": "project",
+      "name": "agent-desktop",
+      "repo": "vercel-labs/agent-desktop",
+      "owner": "vercel-labs",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "summary": "Computer use CLI for AI agents",
+      "sourceName": "github-trending-weekly",
+      "catalogUrl": "https://github.com/trending?since=weekly",
+      "descriptionOrigin": "source",
+      "discoveryMethod": "github-weekly",
+      "repoStars": 21030,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "weeklyRank": 2,
+      "weeklyStars": 12120,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "sourceRepo": "vercel-labs/agent-desktop",
+      "sourceUrl": "https://github.com/vercel-labs/agent-desktop",
+      "sourceStars": 21030,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Cargo.toml",
+        "src/main.rs"
+      ],
+      "projectSourceRef": "ab7dfb218cddc1594aa1d87a5bfcd0ac76da2276",
+      "id": "project:e98d95057c8d0ea81a2939f0",
+      "publishedAt": "2026-11-10T12:29:25Z",
+      "updatedAt": "2026-11-10T12:29:25Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-10T12:29:25Z",
+          "detectedAt": "2026-11-10T11:18:13Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "github-trending-weekly",
+          "url": "https://github.com/trending?since=weekly",
+          "description": "Computer use CLI for AI agents"
+        }
+      ],
+      "purposeZh": "供 AI Agent 操作电脑界面的命令行工具。"
+    },
+    {
+      "id": "anthropics/claude-quickstarts",
+      "type": "project",
+      "repo": "anthropics/claude-quickstarts",
+      "name": "claude-quickstarts",
+      "owner": "anthropics",
+      "titleZh": "从可运行示例开始，搭建 Claude 应用",
+      "summary": "Claude API 的应用示例集合，覆盖客服助手、财务分析、电脑与浏览器操作、编程 Agent 等方向。",
+      "sourceName": "此前的 GitHub 发现",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "readme": "https://github.com/anthropics/claude-quickstarts#readme",
+      "descriptionOrigin": "editorial",
+      "catalogUrl": "https://github.com/anthropics/claude-quickstarts#readme",
+      "repoStars": 20259,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "anthropics/claude-quickstarts",
+      "sourceUrl": "https://github.com/anthropics/claude-quickstarts",
+      "sourceStars": 20259,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "excluded",
+      "projectReason": "project-collection",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [],
+      "projectSourceRef": null,
+      "publishedAt": "2026-11-09T14:24:12Z",
+      "updatedAt": "2026-11-09T14:24:12Z",
+      "firstKind": "history",
+      "discoveryDate": "2026-11-09",
+      "activities": [
+        {
+          "day": "2026-11-09",
+          "kind": "new",
+          "publishedAt": "2026-11-09T14:24:12Z",
+          "detectedAt": "2026-11-09T14:24:12Z",
+          "recommended": 0
+        }
+      ],
+      "recommendation": {
+        "eligible": false,
+        "reason": "project-collection",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "此前的 GitHub 发现"
+      ],
+      "availableInCatalogs": false,
+      "catalogEntries": []
+    },
+    {
+      "id": "google-deepmind/mujoco",
+      "type": "project",
+      "repo": "google-deepmind/mujoco",
+      "name": "mujoco",
+      "owner": "google-deepmind",
+      "titleZh": "研究机器人与物理交互的仿真引擎",
+      "summary": "Google DeepMind 维护的 MuJoCo 通用物理仿真引擎，面向机器人、运动控制和机器学习等研究开发。",
+      "sourceName": "此前的 GitHub 发现",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "readme": "https://github.com/google-deepmind/mujoco#readme",
+      "descriptionOrigin": "editorial",
+      "catalogUrl": "https://github.com/google-deepmind/mujoco#readme",
+      "repoStars": 17166,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "google-deepmind/mujoco",
+      "sourceUrl": "https://github.com/google-deepmind/mujoco",
+      "sourceStars": 17166,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "CMakeLists.txt",
+        "python/mujoco/_version.py"
+      ],
+      "projectSourceRef": "46f0d8c0159cd4a39eb460041b6290b125f4be6f",
+      "publishedAt": "2026-11-09T14:24:12Z",
+      "updatedAt": "2026-11-09T14:24:12Z",
+      "firstKind": "history",
+      "discoveryDate": "2026-11-09",
+      "activities": [
+        {
+          "day": "2026-11-09",
+          "kind": "new",
+          "publishedAt": "2026-11-09T14:24:12Z",
+          "detectedAt": "2026-11-09T14:24:12Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "521xueweihan/HelloGitHub"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "521xueweihan/HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub120.md",
+          "description": "开源的高性能通用物理引擎。该项目是由 Google DeepMind 开源的通用物理仿真引擎，专注于复杂关节结构与环境交互模拟。它内置可视化交互式界面，支持使用 MJCF 描述场景，适用于机器人、具身智能、生物力学、动画和机器学习等场景。"
+        }
+      ]
+    },
+    {
+      "type": "project",
+      "name": "Cue",
+      "url": "https://github.com/8starlabs/cue",
+      "summary": "IDE-style autocomplete for commands, options, Git branches, and files in zsh on Apple Terminal and VS Code’s integrated terminal.",
+      "sourceName": "jaywcjlove/awesome-mac",
+      "catalogUrl": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+      "descriptionOrigin": "source",
+      "repo": "8starlabs/cue",
+      "owner": "8starlabs",
+      "repoStars": 24,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "8starlabs/cue",
+      "sourceUrl": "https://github.com/8starlabs/cue",
+      "sourceStars": 24,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "package.json",
+        "packages/cue/src/cli.ts"
+      ],
+      "projectSourceRef": "c0ad7c50ac2d0eb9339969eab945da95de913ec5",
+      "id": "project:ea55d08e0d938a1f7fd5c271",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "jaywcjlove/awesome-mac"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+          "description": "IDE-style autocomplete for commands, options, Git branches, and files in zsh on Apple Terminal and VS Code’s integrated terminal."
+        }
+      ]
+    },
+    {
+      "type": "project",
+      "name": "FixStat",
+      "url": "https://github.com/burakfixlab/fixstat",
+      "summary": "Menu bar monitor and diagnostics for Mac repair: per-model sensor names, battery cell data, SSD SMART including USB drives, panic history and guided hardware tests.",
+      "sourceName": "jaywcjlove/awesome-mac",
+      "catalogUrl": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+      "descriptionOrigin": "source",
+      "repo": "burakfixlab/fixstat",
+      "owner": "burakfixlab",
+      "repoStars": 20,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "burakfixlab/fixstat",
+      "sourceUrl": "https://github.com/burakfixlab/fixstat",
+      "sourceStars": 20,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Package.swift",
+        "Sources/FixStat/About.swift"
+      ],
+      "projectSourceRef": "b0139e4414ceed3b34527729e1b1fec6a4467370",
+      "id": "project:593c55ff883eae574927612a",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-09T16:58:54Z",
+          "detectedAt": "2026-11-09T16:58:54Z",
+          "recommended": 0
+        }
+      ],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "jaywcjlove/awesome-mac"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+          "description": "Menu bar monitor and diagnostics for Mac repair: per-model sensor names, battery cell data, SSD SMART including USB drives, panic history and guided hardware tests."
+        }
+      ],
+      "purposeZh": "在 Mac 菜单栏查看传感器、电池与磁盘数据，辅助硬件故障诊断。"
+    },
+    {
+      "type": "project",
+      "name": "LogoLight",
+      "url": "https://github.com/ark0n/logolight",
+      "summary": "Menu bar app that turns off, dims, or animates the illuminated Apple logo on the MacBook Pro with PROLED XDR Display.",
+      "sourceName": "jaywcjlove/awesome-mac",
+      "catalogUrl": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+      "descriptionOrigin": "source",
+      "repo": "ark0n/logolight",
+      "owner": "ark0n",
+      "repoStars": 17,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "ark0n/logolight",
+      "sourceUrl": "https://github.com/ark0n/logolight",
+      "sourceStars": 17,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Package.swift",
+        "Sources/LogoLight/AppDelegate.swift"
+      ],
+      "projectSourceRef": "b82691110a4e97ffbae9cfe39e5b6b42c3da0cbb",
+      "id": "project:90479ddeabe5dbebfb9f720e",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-09T16:58:54Z",
+          "detectedAt": "2026-11-09T16:58:54Z",
+          "recommended": 0
+        }
+      ],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "jaywcjlove/awesome-mac"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+          "description": "Menu bar app that turns off, dims, or animates the illuminated Apple logo on the MacBook Pro with PROLED XDR Display."
+        }
+      ],
+      "purposeZh": "控制支持 PROLED XDR 的 MacBook Pro 发光标志，调整亮度或动画。"
+    },
+    {
+      "type": "project",
+      "name": "Lowspeak",
+      "url": "https://github.com/sventmueller/lowspeak",
+      "summary": "Native, ultrafast AI dictation written in Rust: hold fn to talk into any app in 35 languages, free online with your own Groq key or offline with Whisper and Parakeet.",
+      "sourceName": "jaywcjlove/awesome-mac",
+      "catalogUrl": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+      "descriptionOrigin": "source",
+      "repo": "sventmueller/lowspeak",
+      "owner": "sventmueller",
+      "repoStars": 9,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "sventmueller/lowspeak",
+      "sourceUrl": "https://github.com/sventmueller/lowspeak",
+      "sourceStars": 9,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Cargo.toml",
+        "src/hotkey.rs"
+      ],
+      "projectSourceRef": "41178d437d60d241073067512d5eed13a45a1beb",
+      "id": "project:c6b443e80ae289cf0be5b467",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "jaywcjlove/awesome-mac"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+          "description": "Native, ultrafast AI dictation written in Rust: hold fn to talk into any app in 35 languages, free online with your own Groq key or offline with Whisper and Parakeet."
+        }
+      ]
+    },
+    {
+      "type": "project",
+      "name": "Native Screen",
+      "url": "https://github.com/maitrungduc1410/nativescreen",
+      "summary": "Open-source screen recorder and editor with a multi-track timeline, auto-zoom, and on-device captions.",
+      "sourceName": "jaywcjlove/awesome-mac",
+      "catalogUrl": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+      "descriptionOrigin": "source",
+      "repo": "maitrungduc1410/nativescreen",
+      "owner": "maitrungduc1410",
+      "repoStars": 5,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "maitrungduc1410/nativescreen",
+      "sourceUrl": "https://github.com/maitrungduc1410/nativescreen",
+      "sourceStars": 5,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "site/package.json",
+        "macos/NativeScreen/ContentView.swift"
+      ],
+      "projectSourceRef": "d2f6a356e377c6f2cb5b3b0616a5a0a147fb756a",
+      "id": "project:a69d762e35038a249f276502",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "jaywcjlove/awesome-mac"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+          "description": "Open-source screen recorder and editor with a multi-track timeline, auto-zoom, and on-device captions."
+        }
+      ]
+    },
+    {
+      "type": "project",
+      "name": "Polka",
+      "url": "https://github.com/romabmstu/polka",
+      "summary": "Turns the MacBook notch into a control center for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history.",
+      "sourceName": "jaywcjlove/awesome-mac",
+      "catalogUrl": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+      "descriptionOrigin": "source",
+      "repo": "romabmstu/polka",
+      "owner": "romabmstu",
+      "repoStars": 5,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "romabmstu/polka",
+      "sourceUrl": "https://github.com/romabmstu/polka",
+      "sourceStars": 5,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Packages/PolkaKit/Package.swift",
+        "Casks/polka.rb"
+      ],
+      "projectSourceRef": "ad2fbb2ea3a2c736a6c212852f28dbed820e8fdd",
+      "id": "project:dd928363c86e50b4b2dd7a6b",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "jaywcjlove/awesome-mac"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+          "description": "Turns the MacBook notch into a control center for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history."
+        }
+      ]
+    },
+    {
+      "type": "project",
+      "name": "Nimbus",
+      "url": "https://github.com/dearonski/nimbus",
+      "summary": "Native SoundCloud client with gapless playback, a drag-and-drop queue, Chromecast and a full-screen vinyl player.",
+      "sourceName": "jaywcjlove/awesome-mac",
+      "catalogUrl": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+      "descriptionOrigin": "source",
+      "repo": "dearonski/nimbus",
+      "owner": "dearonski",
+      "repoStars": 4,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "dearonski/nimbus",
+      "sourceUrl": "https://github.com/dearonski/nimbus",
+      "sourceStars": 4,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Nimbus.xcodeproj/project.pbxproj",
+        "Nimbus/App/AppModel.swift"
+      ],
+      "projectSourceRef": "e89fa5216aca504188f5b9568ff0c47a9d0e63b4",
+      "id": "project:39d201b7dd9dc0633f82625b",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-09T16:58:54Z",
+          "detectedAt": "2026-11-09T16:58:54Z",
+          "recommended": 0
+        }
+      ],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "jaywcjlove/awesome-mac"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+          "description": "Native SoundCloud client with gapless playback, a drag-and-drop queue, Chromecast and a full-screen vinyl player."
+        }
+      ],
+      "purposeZh": "原生 SoundCloud 客户端，支持无缝播放、拖拽队列与 Chromecast。"
+    },
+    {
+      "type": "project",
+      "name": "Claude Accounts",
+      "url": "https://github.com/jomonkj/claude-accounts",
+      "summary": "Switches the Claude desktop app between your accounts with one click, without losing sessions.",
+      "sourceName": "jaywcjlove/awesome-mac",
+      "catalogUrl": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+      "descriptionOrigin": "source",
+      "repo": "jomonkj/claude-accounts",
+      "owner": "jomonkj",
+      "repoStars": 3,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "jomonkj/claude-accounts",
+      "sourceUrl": "https://github.com/jomonkj/claude-accounts",
+      "sourceStars": 3,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Package.swift",
+        "Sources/ClaudeAccounts/App.swift"
+      ],
+      "projectSourceRef": "89b0d7a250708af1d485974ce8d19ed2ed30cd2f",
+      "id": "project:5318c8dd4594a467b77259c5",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-09T16:58:54Z",
+          "detectedAt": "2026-11-09T16:58:54Z",
+          "recommended": 0
+        }
+      ],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "jaywcjlove/awesome-mac"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+          "description": "Switches the Claude desktop app between your accounts with one click, without losing sessions."
+        }
+      ],
+      "purposeZh": "一键切换 Claude 桌面端账号，保留已有会话。"
+    },
+    {
+      "type": "project",
+      "name": "Cue",
+      "url": "https://github.com/hridaya423/cue",
+      "summary": "Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number.",
+      "sourceName": "jaywcjlove/awesome-mac",
+      "catalogUrl": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+      "descriptionOrigin": "source",
+      "repo": "hridaya423/cue",
+      "owner": "hridaya423",
+      "repoStars": 3,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "hridaya423/cue",
+      "sourceUrl": "https://github.com/hridaya423/cue",
+      "sourceStars": 3,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Package.swift",
+        "Sources/Cue/main.swift"
+      ],
+      "projectSourceRef": "54ff3100dac6072570b2791ed8b831109d8dc225",
+      "id": "project:68fc89b624136c9ea75028ec",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-09T16:58:54Z",
+          "detectedAt": "2026-11-09T16:58:54Z",
+          "recommended": 0
+        }
+      ],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "jaywcjlove/awesome-mac"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+          "description": "Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number."
+        }
+      ],
+      "purposeZh": "根据当前输入框，从剪贴板中提取并粘贴适合的邮箱、电话等内容。"
+    },
+    {
+      "type": "project",
+      "name": "NØTH",
+      "url": "https://github.com/manugowda19/noth",
+      "summary": "Turns the MacBook notch into live activities and a command center for music, files, clipboard, calendar, notes and tools.",
+      "sourceName": "jaywcjlove/awesome-mac",
+      "catalogUrl": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+      "descriptionOrigin": "source",
+      "repo": "manugowda19/noth",
+      "owner": "manugowda19",
+      "repoStars": 3,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "manugowda19/noth",
+      "sourceUrl": "https://github.com/manugowda19/noth",
+      "sourceStars": 3,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Package.swift",
+        "Sources/NotchFlow/AppCoordinator.swift"
+      ],
+      "projectSourceRef": "bc20d859606bc4089ac28adc9e73fb776737eae6",
+      "id": "project:ceae3ec6a7984a7205078eb6",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "jaywcjlove/awesome-mac"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "jaywcjlove/awesome-mac",
+          "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README.md",
+          "description": "Turns the MacBook notch into live activities and a command center for music, files, clipboard, calendar, notes and tools."
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "type": "skill",
+      "name": "ask-matt",
+      "skillSlug": "ask-matt",
+      "repo": "mattpocock/skills",
+      "owner": "mattpocock",
+      "url": "https://github.com/mattpocock/skills/tree/main/skills/engineering/ask-matt",
+      "fileUrl": "https://github.com/mattpocock/skills/blob/4ae2317ddb22b046e26455e4f9c9b3aaaf62212d/skills/engineering/ask-matt/SKILL.md",
+      "summary": "Ask which skill or flow fits your situation. A router over the skills in this repo.",
+      "sourceName": "github-trending-weekly",
+      "catalogUrl": "https://github.com/trending?since=weekly",
+      "descriptionOrigin": "source",
+      "discoveryMethod": "github-weekly",
+      "installCommand": "npx skills add mattpocock/skills --skill ask-matt",
+      "weeklyRank": 8,
+      "weeklyStars": 9800,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "repoStars": 320275,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceRepo": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/engineering/ask-matt",
+      "sourceStars": 320275,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceStatus": "verified",
+      "sourceArchived": false,
+      "id": "skill:30b7e0fee3e8dcdd74186d20",
+      "publishedAt": "2026-11-10T12:29:25Z",
+      "updatedAt": "2026-11-10T12:29:25Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-10T12:29:25Z",
+          "detectedAt": "2026-11-10T11:18:13Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "github-trending-weekly"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "github-trending-weekly",
+          "url": "https://github.com/trending?since=weekly",
+          "description": "Ask which skill or flow fits your situation. A router over the skills in this repo."
+        }
+      ],
+      "purposeZh": "根据当前任务，从 Matt 的技能库中选择合适的技能或流程。"
+    },
+    {
+      "id": "skill:anthropics/skills:docx",
+      "type": "skill",
+      "name": "docx",
+      "titleZh": "创建、读取与修改 Word 文档",
+      "summary": "让 Agent 处理 Word 文档和模板，包括排版、表格、文档编辑、批注与修订等任务。",
+      "sourceName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills/tree/main/skills/docx",
+      "fileUrl": "https://github.com/anthropics/skills/blob/main/skills/docx/SKILL.md",
+      "descriptionOrigin": "editorial",
+      "catalogUrl": "https://github.com/anthropics/skills/blob/main/skills/docx/SKILL.md",
+      "repoStars": 191733,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceRepo": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/docx",
+      "sourceStars": 191733,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "publishedAt": "2026-11-09T14:24:12Z",
+      "updatedAt": "2026-11-09T14:24:12Z",
+      "firstKind": "history",
+      "discoveryDate": "2026-11-09",
+      "activities": [
+        {
+          "day": "2026-11-09",
+          "kind": "new",
+          "publishedAt": "2026-11-09T14:24:12Z",
+          "detectedAt": "2026-11-09T14:24:12Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "VoltAgent/awesome-agent-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills/blob/main/README.md",
+          "description": "Create, edit, and analyze Word documents"
+        }
+      ]
+    },
+    {
+      "id": "skill:anthropics/skills:frontend-design",
+      "type": "skill",
+      "name": "frontend-design",
+      "titleZh": "设计与重做前端界面",
+      "summary": "帮助 Agent 根据产品与用户选择视觉方向、字体、配色和布局，制作或调整前端页面。",
+      "sourceName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+      "fileUrl": "https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md",
+      "descriptionOrigin": "editorial",
+      "catalogUrl": "https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md",
+      "repoStars": 191733,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceRepo": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+      "sourceStars": 191733,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "publishedAt": "2026-11-09T14:24:12Z",
+      "updatedAt": "2026-11-09T14:24:12Z",
+      "firstKind": "history",
+      "discoveryDate": "2026-11-09",
+      "activities": [
+        {
+          "day": "2026-11-09",
+          "kind": "new",
+          "publishedAt": "2026-11-09T14:24:12Z",
+          "detectedAt": "2026-11-09T14:24:12Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "VoltAgent/awesome-agent-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills/blob/main/README.md",
+          "description": "Frontend design and UI/UX development tools"
+        }
+      ]
+    },
+    {
+      "id": "skill:anthropics/skills:skill-creator",
+      "type": "skill",
+      "name": "skill-creator",
+      "titleZh": "把工作方法整理成 Skill",
+      "summary": "创建、修改与改进技能，通过测试提示、结果评估和迭代，让技能更容易触发并完成任务。",
+      "sourceName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+      "fileUrl": "https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md",
+      "descriptionOrigin": "editorial",
+      "catalogUrl": "https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md",
+      "repoStars": 191733,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceRepo": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+      "sourceStars": 191733,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "publishedAt": "2026-11-09T14:24:12Z",
+      "updatedAt": "2026-11-09T14:24:12Z",
+      "firstKind": "history",
+      "discoveryDate": "2026-11-09",
+      "activities": [
+        {
+          "day": "2026-11-09",
+          "kind": "new",
+          "publishedAt": "2026-11-09T14:24:12Z",
+          "detectedAt": "2026-11-09T14:24:12Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "VoltAgent/awesome-agent-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills/blob/main/README.md",
+          "description": "Guide for creating skills that extend Claude's capabilities"
+        }
+      ]
+    },
+    {
+      "id": "skill:anthropics/skills:webapp-testing",
+      "type": "skill",
+      "name": "webapp-testing",
+      "titleZh": "在浏览器里检查网页交互",
+      "summary": "使用 Playwright 测试本地网页，检查功能、页面状态和交互，并采集截图与浏览器日志。",
+      "sourceName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing",
+      "fileUrl": "https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md",
+      "descriptionOrigin": "editorial",
+      "catalogUrl": "https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md",
+      "repoStars": 191733,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceRepo": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing",
+      "sourceStars": 191733,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "publishedAt": "2026-11-09T14:24:12Z",
+      "updatedAt": "2026-11-09T14:24:12Z",
+      "firstKind": "history",
+      "discoveryDate": "2026-11-09",
+      "activities": [
+        {
+          "day": "2026-11-09",
+          "kind": "new",
+          "publishedAt": "2026-11-09T14:24:12Z",
+          "detectedAt": "2026-11-09T14:24:12Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "VoltAgent/awesome-agent-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills/blob/main/README.md",
+          "description": "Test local web applications using Playwright"
+        }
+      ]
+    },
+    {
+      "id": "skill:anthropics/skills:xlsx",
+      "type": "skill",
+      "name": "xlsx",
+      "titleZh": "制作、清理与计算电子表格",
+      "summary": "让 Agent 读取和修改 Excel、CSV 等表格，整理数据、设置公式与格式，并检查计算结果。",
+      "sourceName": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills/tree/main/skills/xlsx",
+      "fileUrl": "https://github.com/anthropics/skills/blob/main/skills/xlsx/SKILL.md",
+      "descriptionOrigin": "editorial",
+      "catalogUrl": "https://github.com/anthropics/skills/blob/main/skills/xlsx/SKILL.md",
+      "repoStars": 191733,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceRepo": "anthropics/skills",
+      "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/xlsx",
+      "sourceStars": 191733,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "publishedAt": "2026-11-09T14:24:12Z",
+      "updatedAt": "2026-11-09T14:24:12Z",
+      "firstKind": "history",
+      "discoveryDate": "2026-11-09",
+      "activities": [
+        {
+          "day": "2026-11-09",
+          "kind": "new",
+          "publishedAt": "2026-11-09T14:24:12Z",
+          "detectedAt": "2026-11-09T14:24:12Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "VoltAgent/awesome-agent-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills/blob/main/README.md",
+          "description": "Create, edit, and analyze Excel spreadsheets"
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "teardown",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/teardown",
+      "summary": "Creates technical illustrations of physical objects and of how things work, such as display pixels or interface layers, with coherent views, fine linework and part fills.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/teardown/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/teardown",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/teardown/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/teardown",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:02f6c8d2bc4829d411ee70e9",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-09T16:58:54Z",
+          "detectedAt": "2026-11-09T16:58:54Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Creates technical illustrations of physical objects and of how things work, such as display pixels or interface layers, with coherent views, fine linework and part fills."
+        }
+      ],
+      "purposeZh": "绘制物体拆解与工作原理的技术插图。"
+    },
+    {
+      "type": "skill",
+      "name": "better-colors",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/better-colors",
+      "summary": "Builds and checks color systems by generating palettes, naming semantic tokens, converting between formats and measuring contrast.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/better-colors/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-colors",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/better-colors/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-colors",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:0668c32e5624c60db75372a5",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-09T16:58:54Z",
+          "detectedAt": "2026-11-09T16:58:54Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Builds and checks color systems by generating palettes, naming semantic tokens, converting between formats and measuring contrast."
+        }
+      ],
+      "purposeZh": "生成配色、定义颜色变量，并检查对比度。"
+    },
+    {
+      "type": "skill",
+      "name": "explain-interface",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/explain-interface",
+      "summary": "Explains how a website, a visual effect or an animation was built, from a live URL or a screenshot.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/explain-interface/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/explain-interface",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/explain-interface/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/explain-interface",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:18f151b947cea2bcf5786643",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Explains how a website, a visual effect or an animation was built, from a live URL or a screenshot."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "better-accessibility",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/better-accessibility",
+      "summary": "Reviews and fixes keyboard and focus behavior, ARIA, accessible names, forms, screen-reader announcements, motion and zoom against WCAG 2.2.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/better-accessibility/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-accessibility",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/better-accessibility/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-accessibility",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:49a659131434c39c28acdcfd",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Reviews and fixes keyboard and focus behavior, ARIA, accessible names, forms, screen-reader announcements, motion and zoom against WCAG 2.2."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "better-interface",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/better-interface",
+      "summary": "Reviews a screen, flow or whole interface across accessibility, layout, writing, typography, color and UI polish, and returns one ranked report.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/better-interface/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-interface",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/better-interface/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-interface",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:4e687d8b9ffafe1b6445c883",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Reviews a screen, flow or whole interface across accessibility, layout, writing, typography, color and UI polish, and returns one ranked report."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "better-writing",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/better-writing",
+      "summary": "Writes and reviews interface copy, from labels and errors to empty states and confirmations, so it matches the product's voice and tells people what to do next.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/better-writing/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-writing",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/better-writing/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-writing",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:5acdee749503c6e4fa2a0fe1",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Writes and reviews interface copy, from labels and errors to empty states and confirmations, so it matches the product's voice and tells people what to do next."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "better-typography",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/better-typography",
+      "summary": "Sets and reviews how text renders, from the type scale and spacing to font features, wrapping, truncation and punctuation.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/better-typography/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-typography",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/better-typography/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-typography",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:5e3bd0a86da80c3f70af8a1c",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Sets and reviews how text renders, from the type scale and spacing to font features, wrapping, truncation and punctuation."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "break",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/break",
+      "summary": "Renders a component you choose under every scenario that can reach it on a temporary page and stress tests it.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/break/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/break",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/break/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/break",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:6a4374a6a3ddc0ad9fcfe97c",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Renders a component you choose under every scenario that can reach it on a temporary page and stress tests it."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "state-machine",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/state-machine",
+      "summary": "Renders every state of a component you choose on a throwaway page, with mock data and a switcher, so you can work on each state.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/state-machine/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/state-machine",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/state-machine/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/state-machine",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:7a356473fd9dc1213eda3940",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Renders every state of a component you choose on a throwaway page, with mock data and a switcher, so you can work on each state."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "build-design",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/build-design",
+      "summary": "Builds UI from a Figma file or a design image so it matches the design, using the project's existing tokens and components.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/build-design/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/build-design",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/build-design/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/build-design",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:9f129d9a855c6eab4100332a",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Builds UI from a Figma file or a design image so it matches the design, using the project's existing tokens and components."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "variant",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/variant",
+      "summary": "Builds multiple variants of a component you're working on and helps you iterate and pick one.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/variant/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/variant",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/variant/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/variant",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:ab1667597b0dc51ebb0e7ed9",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Builds multiple variants of a component you're working on and helps you iterate and pick one."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "interface-review",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/interface-review",
+      "summary": "Reviews a branch, pull request or uncommitted change for the interface problems it introduced or regressed, across accessibility, layout, writing, typography, color and UI.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/interface-review/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/interface-review",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/interface-review/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/interface-review",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:cdcd76a7ddf205ca4c6e3bc7",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Reviews a branch, pull request or uncommitted change for the interface problems it introduced or regressed, across accessibility, layout, writing, typography, color and UI."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "better-layout",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/better-layout",
+      "summary": "Sets grouping, alignment, reading order, responsive structure and room for translated text, so a layout holds up when it is resized, translated or mirrored.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/better-layout/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-layout",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/better-layout/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-layout",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:ec23690714702a53298a1f54",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Sets grouping, alignment, reading order, responsive structure and room for translated text, so a layout holds up when it is resized, translated or mirrored."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "better-ui",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/better-ui",
+      "summary": "Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/better-ui/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/jakubkrehel/skills",
+      "originUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-ui",
+      "originRepo": "jakubkrehel/skills",
+      "originRepoStars": 11891,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/jakubkrehel/skills/blob/72bdd6121cd595f47fd21c9f23e374028c9cbacd/skills/better-ui/SKILL.md",
+      "sourceRepo": "jakubkrehel/skills",
+      "sourceUrl": "https://github.com/jakubkrehel/skills/tree/main/skills/better-ui",
+      "sourceStars": 11891,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:f7fbda346a100a5a7d16756e",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Polishes surfaces, icons and motion with exact values for border radius, optical alignment, shadows, icon states and animation."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "treg",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/treg",
+      "summary": "Use the Treg CLI or MCP catalog to discover, price and call authorized external tools with team-scoped credentials and a user-approved budget.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/treg/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/superdesigndev/treg",
+      "originUrl": "https://github.com/superdesigndev/treg",
+      "originRepo": "superdesigndev/treg",
+      "originRepoStars": 7742,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "sourceRepo": "superdesigndev/treg",
+      "sourceUrl": "https://github.com/superdesigndev/treg",
+      "sourceStars": 7742,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:13837a1e6be99ffb0376796e",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-09T16:58:54Z",
+          "detectedAt": "2026-11-09T16:58:54Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Use the Treg CLI or MCP catalog to discover, price and call authorized external tools with team-scoped credentials and a user-approved budget."
+        }
+      ],
+      "purposeZh": "查询外部工具价格，并在授权与预算内调用。"
+    },
+    {
+      "type": "skill",
+      "name": "rea-growth",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/rea-growth",
+      "summary": "Analyze a company’s public growth and content through Treg, distinguish observations from hypotheses, and produce an evidence-linked playbook within an approved budget.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/rea-growth/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/superdesigndev/treg",
+      "originUrl": "https://github.com/superdesigndev/treg",
+      "originRepo": "superdesigndev/treg",
+      "originRepoStars": 7742,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "sourceRepo": "superdesigndev/treg",
+      "sourceUrl": "https://github.com/superdesigndev/treg",
+      "sourceStars": 7742,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:5b9a68eaaabe03033056f55b",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Analyze a company’s public growth and content through Treg, distinguish observations from hypotheses, and produce an evidence-linked playbook within an approved budget."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "recruit",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/recruit",
+      "summary": "Turn a job description into an evidence-linked candidate shortlist through Treg, with job-related ranking and optional authorized business contact enrichment.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/recruit/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/superdesigndev/treg",
+      "originUrl": "https://github.com/superdesigndev/treg",
+      "originRepo": "superdesigndev/treg",
+      "originRepoStars": 7742,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "sourceRepo": "superdesigndev/treg",
+      "sourceUrl": "https://github.com/superdesigndev/treg",
+      "sourceStars": 7742,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:8307d3768db807a6f3eddeb6",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Turn a job description into an evidence-linked candidate shortlist through Treg, with job-related ranking and optional authorized business contact enrichment."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "web-access",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/web-access",
+      "summary": "Use Treg for public web or platform data only when existing search, browser and connected tools cannot cover the task, with explicit cost and data boundaries.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/web-access/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/superdesigndev/treg",
+      "originUrl": "https://github.com/superdesigndev/treg",
+      "originRepo": "superdesigndev/treg",
+      "originRepoStars": 7742,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "sourceRepo": "superdesigndev/treg",
+      "sourceUrl": "https://github.com/superdesigndev/treg",
+      "sourceStars": 7742,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:e8bf2ec4446b1a227908f357",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Use Treg for public web or platform data only when existing search, browser and connected tools cannot cover the task, with explicit cost and data boundaries."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "lead-signals",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/lead-signals",
+      "summary": "Find and qualify public buying signals through Treg, rank fitting business accounts and optionally enrich authorized business contact information.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/lead-signals/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/superdesigndev/treg",
+      "originUrl": "https://github.com/superdesigndev/treg",
+      "originRepo": "superdesigndev/treg",
+      "originRepoStars": 7742,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "sourceRepo": "superdesigndev/treg",
+      "sourceUrl": "https://github.com/superdesigndev/treg",
+      "sourceStars": 7742,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:eff3a25eadfa9057b28cb84f",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Find and qualify public buying signals through Treg, rank fitting business accounts and optionally enrich authorized business contact information."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "make-ugc",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/make-ugc",
+      "summary": "Create original AI UGC-style product videos through Treg: research hooks, approve a licensed presenter and voice, generate clips, add captions and report costs.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/make-ugc/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/superdesigndev/treg",
+      "originUrl": "https://github.com/superdesigndev/treg",
+      "originRepo": "superdesigndev/treg",
+      "originRepoStars": 7742,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "sourceRepo": "superdesigndev/treg",
+      "sourceUrl": "https://github.com/superdesigndev/treg",
+      "sourceStars": 7742,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:f02217ba2cd629ee90623d99",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Create original AI UGC-style product videos through Treg: research hooks, approve a licensed presenter and voice, generate clips, add captions and report costs."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "jev-memory",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/jev-memory",
+      "summary": "Set up an explicitly requested Claude Code memory mod using Treg and Jev, with informed consent for prompt transmission, recurring charges and local preference storage.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/jev-memory/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/superdesigndev/treg",
+      "originUrl": "https://github.com/superdesigndev/treg",
+      "originRepo": "superdesigndev/treg",
+      "originRepoStars": 7742,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "sourceRepo": "superdesigndev/treg",
+      "sourceUrl": "https://github.com/superdesigndev/treg",
+      "sourceStars": 7742,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:f1018d32c861ad9e568b85eb",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Set up an explicitly requested Claude Code memory mod using Treg and Jev, with informed consent for prompt transmission, recurring charges and local preference storage."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "code-showcase-core-components",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/code-showcase-core-components",
+      "summary": "Apply the ChrisWiles code-showcase component and token conventions when the target project actually uses that API; examples require local adaptation.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/code-showcase-core-components/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/core-components",
+      "originUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/core-components",
+      "originRepo": "ChrisWiles/claude-code-showcase",
+      "originRepoStars": 6082,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/ChrisWiles/claude-code-showcase/blob/a95518f0cb67e86230119da40429169bc4c35a6f/.claude/skills/core-components/SKILL.md",
+      "sourceRepo": "ChrisWiles/claude-code-showcase",
+      "sourceUrl": "https://github.com/ChrisWiles/claude-code-showcase/tree/main/.claude/skills/core-components",
+      "sourceStars": 6082,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:575dddf33a0191d0f6fdba1d",
+      "publishedAt": "2026-11-09T17:03:17Z",
+      "updatedAt": "2026-11-09T17:03:17Z",
+      "firstKind": "updated",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "deja-history",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/deja-history",
+      "summary": "Search this machine's past AI coding sessions across Claude Code, Codex, Cursor, Gemini CLI and thirty-nine other agents before editing, debugging, or denying something exists.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/deja-history/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/vshulcz/deja-vu/tree/8fbf4e8d71826a28db52be416349c682298bc9cf/claude-plugin/skills/deja-history",
+      "originUrl": "https://github.com/vshulcz/deja-vu/tree/8fbf4e8d71826a28db52be416349c682298bc9cf/claude-plugin/skills/deja-history",
+      "originRepo": "vshulcz/deja-vu",
+      "originRepoStars": 1480,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/vshulcz/deja-vu/blob/8fbf4e8d71826a28db52be416349c682298bc9cf/claude-plugin/skills/deja-history/SKILL.md",
+      "sourceRepo": "vshulcz/deja-vu",
+      "sourceUrl": "https://github.com/vshulcz/deja-vu/tree/8fbf4e8d71826a28db52be416349c682298bc9cf/claude-plugin/skills/deja-history",
+      "sourceStars": 1480,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:7ff22db428a2a1c5fdd69c56",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Search this machine's past AI coding sessions across Claude Code, Codex, Cursor, Gemini CLI and thirty-nine other agents before editing, debugging, or denying something exists."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "untangle-codebase",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/untangle-codebase",
+      "summary": "Untangle a whole codebase in one pass, so agents working in it read less per change, break less without noticing, and debug faster.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/untangle-codebase/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/caldoai/skills",
+      "originUrl": "https://github.com/caldoai/skills/tree/main/skills/untangle-codebase",
+      "originRepo": "caldoai/skills",
+      "originRepoStars": 1074,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/caldoai/skills/blob/f3cf47774975a7d9fca45730babf4ff7ad765ada/skills/untangle-codebase/SKILL.md",
+      "sourceRepo": "caldoai/skills",
+      "sourceUrl": "https://github.com/caldoai/skills/tree/main/skills/untangle-codebase",
+      "sourceStars": 1074,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:0a6ebb304a85e5fc626b0f60",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-09T16:58:54Z",
+          "detectedAt": "2026-11-09T16:58:54Z",
+          "recommended": 1
+        }
+      ],
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Untangle a whole codebase in one pass, so agents working in it read less per change, break less without noticing, and debug faster."
+        }
+      ],
+      "purposeZh": "梳理代码库，减少 Agent 阅读与排查的成本。"
+    },
+    {
+      "type": "skill",
+      "name": "accesslint-diff",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/accesslint-diff",
+      "summary": "Diff a live page's accessibility violations against a baseline — by default compares uncommitted changes (stash-based), or pass --branch [name] to diff against a branch. Reports only new violations introduced, violations fixed, and pre-existing count. Use scan for a full audit with no diffing.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/accesslint-diff/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/AccessLint/skills",
+      "originUrl": "https://github.com/AccessLint/skills",
+      "originRepo": "AccessLint/skills",
+      "originRepoStars": 120,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "sourceRepo": "AccessLint/skills",
+      "sourceUrl": "https://github.com/AccessLint/skills",
+      "sourceStars": 120,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:2c9c23912c2daf4020d59241",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "updated",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Diff a live page's accessibility violations against a baseline — by default compares uncommitted changes (stash-based), or pass --branch [name] to diff against a branch. Reports only new violations introduced, violations fixed, and pre-existing count. Use scan for a full audit with no diffing."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "sync-lipsync",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/sync-lipsync",
+      "summary": "Lip-sync an existing video of a real person to new audio or a typed script with sync. labs through its hosted MCP server, quoting the cost and waiting for approval first.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/sync-lipsync/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/synchronicity-labs/skills/tree/77971a9580496fae54f506d11315f9d41db86aa8/skills/lipsync",
+      "originUrl": "https://github.com/synchronicity-labs/skills/tree/77971a9580496fae54f506d11315f9d41db86aa8/skills/lipsync",
+      "originRepo": "synchronicity-labs/skills",
+      "originRepoStars": 7,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/synchronicity-labs/skills/blob/77971a9580496fae54f506d11315f9d41db86aa8/skills/lipsync/SKILL.md",
+      "sourceRepo": "synchronicity-labs/skills",
+      "sourceUrl": "https://github.com/synchronicity-labs/skills/tree/77971a9580496fae54f506d11315f9d41db86aa8/skills/lipsync",
+      "sourceStars": 7,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:6e2177d7e1022e4d4a524af2",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Lip-sync an existing video of a real person to new audio or a typed script with sync. labs through its hosted MCP server, quoting the cost and waiting for approval first."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "imagera-media",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/imagera-media",
+      "summary": "Generate or edit images, video clips, voiceovers and music through the hosted Imagera MCP server, quoting the credit cost and getting approval before each paid call.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/imagera-media/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/alexadams6ix/imagera-skills/blob/481a928012739ddc1fe382d09fcdcc3e839e016f/skills/imagera-media/SKILL.md",
+      "originUrl": "https://github.com/alexadams6ix/imagera-skills/tree/481a928012739ddc1fe382d09fcdcc3e839e016f/skills/imagera-media",
+      "originRepo": "alexadams6ix/imagera-skills",
+      "originRepoStars": 2,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/alexadams6ix/imagera-skills/blob/481a928012739ddc1fe382d09fcdcc3e839e016f/skills/imagera-media/SKILL.md",
+      "sourceRepo": "alexadams6ix/imagera-skills",
+      "sourceUrl": "https://github.com/alexadams6ix/imagera-skills/tree/481a928012739ddc1fe382d09fcdcc3e839e016f/skills/imagera-media",
+      "sourceStars": 2,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:0b129a4bfa89428d6916d7bc",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [
+        {
+          "day": "2026-11-10",
+          "kind": "new",
+          "publishedAt": "2026-11-09T16:58:54Z",
+          "detectedAt": "2026-11-09T16:58:54Z",
+          "recommended": 0
+        }
+      ],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Generate or edit images, video clips, voiceovers and music through the hosted Imagera MCP server, quoting the credit cost and getting approval before each paid call."
+        }
+      ],
+      "purposeZh": "通过 Imagera 生成或编辑图像、视频和音频，按次确认付费。"
+    },
+    {
+      "type": "skill",
+      "name": "blockvectra-docs",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/blockvectra-docs",
+      "summary": "Answer BlockVectra RPC, indexed-data, and Robinhood Chain integration questions from cited documentation. Use for source guidance, not blockchain execution.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/blockvectra-docs/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "originDeclaredUrl": "https://github.com/blockvectra/agent-quickstart/tree/9103506405cdabf2f98aefca88363085781873d1/skills/blockvectra-docs",
+      "originUrl": "https://github.com/blockvectra/agent-quickstart/tree/9103506405cdabf2f98aefca88363085781873d1/skills/blockvectra-docs",
+      "originRepo": "blockvectra/agent-quickstart",
+      "originRepoStars": 0,
+      "originMetricsAt": "2026-11-10T11:23:51Z",
+      "originRelation": "declared-upstream",
+      "originFileUrl": "https://github.com/blockvectra/agent-quickstart/blob/9103506405cdabf2f98aefca88363085781873d1/skills/blockvectra-docs/SKILL.md",
+      "sourceRepo": "blockvectra/agent-quickstart",
+      "sourceUrl": "https://github.com/blockvectra/agent-quickstart/tree/9103506405cdabf2f98aefca88363085781873d1/skills/blockvectra-docs",
+      "sourceStars": 0,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceArchived": false,
+      "sourceStatus": "verified",
+      "id": "skill:e9d850d3e22d00eb9d1a7b43",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "updated",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "below-min-stars",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Answer BlockVectra RPC, indexed-data, and Robinhood Chain integration questions from cited documentation. Use for source guidance, not blockchain execution."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "cloro-mcp",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/cloro-mcp",
+      "summary": "Get Google results with the AI Overview, and ChatGPT, Google AI Mode, Bing AI Mode and Gemini answers with their cited sources, through cloro's hosted MCP server. Use when the user chooses cloro.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/cloro-mcp/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceStars": null,
+      "sourceStatus": "unverified",
+      "sourceError": "原作者声明未指向可核实的 GitHub 仓库",
+      "id": "skill:1efedc19bbd4faa94c349062",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "source-unverified",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Get Google results with the AI Overview, and ChatGPT, Google AI Mode, Bing AI Mode and Gemini answers with their cited sources, through cloro's hosted MCP server. Use when the user chooses cloro."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "music-for-robots",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/music-for-robots",
+      "summary": "Optional music-inspired creative exercise for multimodal agents. Ingests an unquantized acoustic MP3 composition by Michael Luchtan (Music For Robots) into a private temporary directory, analyzing microtiming and texture to inspire creative writing, brainstorming, or technical tasks.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/music-for-robots/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceStars": null,
+      "sourceStatus": "unverified",
+      "sourceError": "原作者声明未指向可核实的 GitHub 仓库",
+      "id": "skill:6e04f0674fa48a94f4b6584f",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "source-unverified",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Optional music-inspired creative exercise for multimodal agents. Ingests an unquantized acoustic MP3 composition by Michael Luchtan (Music For Robots) into a private temporary directory, analyzing microtiming and texture to inspire creative writing, brainstorming, or technical tasks."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "autorekt",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/autorekt",
+      "summary": "Read live market data with the autorekt CLI before answering questions about prices, market moves, liquidity, positioning, options or prediction-market odds",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/autorekt/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceStars": null,
+      "sourceStatus": "unverified",
+      "sourceError": "原作者声明未指向可核实的 GitHub 仓库",
+      "id": "skill:a8f05991e378595c60130b8b",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "source-unverified",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Read live market data with the autorekt CLI before answering questions about prices, market moves, liquidity, positioning, options or prediction-market odds"
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "scrapingbee-cli",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/scrapingbee-cli",
+      "summary": "Fetch web pages, crawl sites and get Google, Amazon, Walmart and YouTube data as JSON with the ScrapingBee CLI. Use when a task needs content from a website that plain HTTP returns empty.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/scrapingbee-cli/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceStars": null,
+      "sourceStatus": "unverified",
+      "sourceError": "原作者声明未指向可核实的 GitHub 仓库",
+      "id": "skill:c1c4dac3c9f18aecf0a6a5c8",
+      "publishedAt": "2026-11-09T16:58:54Z",
+      "updatedAt": "2026-11-09T16:58:54Z",
+      "firstKind": "new",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "source-unverified",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Fetch web pages, crawl sites and get Google, Amazon, Walmart and YouTube data as JSON with the ScrapingBee CLI. Use when a task needs content from a website that plain HTTP returns empty."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "code-documentation-doc-generate",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/code-documentation-doc-generate",
+      "summary": "Compatibility alias of documentation-generation-doc-generate. Generate scoped documentation from verified source while preserving existing callers of this ID.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/code-documentation-doc-generate/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceStars": null,
+      "sourceStatus": "unverified",
+      "sourceError": "原作者声明未指向可核实的 GitHub 仓库",
+      "id": "skill:39aedac52e5dffe9a3d67eba",
+      "publishedAt": "2026-11-09T17:03:17Z",
+      "updatedAt": "2026-11-09T17:03:17Z",
+      "firstKind": "updated",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "source-unverified",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "You are a documentation expert specializing in creating comprehensive, maintainable documentation from code. Generate API docs, architecture diagrams, user guides, and technical references using AI-powered analysis and industry best practices."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "code-review-excellence",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/code-review-excellence",
+      "summary": "Review a defined code diff for correctness, security, performance and maintainability; report evidence-backed findings with severity and actionable feedback.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/code-review-excellence/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceStars": null,
+      "sourceStatus": "unverified",
+      "sourceError": "原作者声明未指向可核实的 GitHub 仓库",
+      "id": "skill:4743c76080c51e4e4db914f2",
+      "publishedAt": "2026-11-09T17:03:17Z",
+      "updatedAt": "2026-11-09T17:03:17Z",
+      "firstKind": "updated",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "source-unverified",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Transform code reviews from gatekeeping to knowledge sharing through constructive feedback, systematic analysis, and collaborative improvement."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "documentation-generation-doc-generate",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/documentation-generation-doc-generate",
+      "summary": "Generate API, architecture or user documentation from current code and tests; validate examples and label gaps without inventing behavior or deploying a site.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/documentation-generation-doc-generate/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceStars": null,
+      "sourceStatus": "unverified",
+      "sourceError": "原作者声明未指向可核实的 GitHub 仓库",
+      "id": "skill:68bae762bc251910e12bb610",
+      "publishedAt": "2026-11-09T17:03:17Z",
+      "updatedAt": "2026-11-09T17:03:17Z",
+      "firstKind": "updated",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "source-unverified",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "You are a documentation expert specializing in creating comprehensive, maintainable documentation from code. Generate API docs, architecture diagrams, user guides, and technical references using AI-powered analysis and industry best practices."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "core-components",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/core-components",
+      "summary": "Adapt an existing project component library and design tokens to a UI change; inspect real exports, preserve native behavior, and verify accessibility.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/core-components/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceStars": null,
+      "sourceStatus": "unverified",
+      "sourceError": "原作者声明未指向可核实的 GitHub 仓库",
+      "id": "skill:c3bbca5d5b76c77342e93e70",
+      "publishedAt": "2026-11-09T17:03:17Z",
+      "updatedAt": "2026-11-09T17:03:17Z",
+      "firstKind": "updated",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "source-unverified",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library."
+        }
+      ]
+    },
+    {
+      "type": "skill",
+      "name": "debugger",
+      "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/debugger",
+      "summary": "Investigate a reproducible error or failing test, test root-cause hypotheses, implement a scoped fix when authorized, and report actual verification evidence.",
+      "sourceName": "sickn33/agentic-awesome-skills",
+      "catalogUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+      "descriptionOrigin": "source",
+      "repo": "sickn33/agentic-awesome-skills",
+      "owner": "sickn33",
+      "fileUrl": "https://github.com/sickn33/agentic-awesome-skills/blob/main/skills/debugger/SKILL.md",
+      "repoStars": 49456,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceStars": null,
+      "sourceStatus": "unverified",
+      "sourceError": "原作者声明未指向可核实的 GitHub 仓库",
+      "id": "skill:d7de43d28e56fa3246b6247f",
+      "publishedAt": "2026-11-09T17:03:17Z",
+      "updatedAt": "2026-11-09T17:03:17Z",
+      "firstKind": "updated",
+      "discoveryDate": "2026-11-10",
+      "activities": [],
+      "recommendation": {
+        "eligible": false,
+        "reason": "source-unverified",
+        "minRepoStars": 1000
+      },
+      "sources": [
+        "sickn33/agentic-awesome-skills"
+      ],
+      "availableInCatalogs": true,
+      "catalogEntries": [
+        {
+          "source": "sickn33/agentic-awesome-skills",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/blob/main/data/skills_index.json",
+          "description": "Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues."
+        }
+      ]
+    }
+  ],
+  "lastRun": {
+    "startedAt": "2026-11-10T11:22:38Z",
+    "completedAt": "2026-11-10T11:23:51Z",
+    "failures": 0,
+    "sourceMetrics": {
+      "verified": 126,
+      "retained": 9,
+      "errors": [
+        "code-documentation-doc-generate: 原作者声明未指向可核实的 GitHub 仓库",
+        "code-review-excellence: 原作者声明未指向可核实的 GitHub 仓库",
+        "core-components: 原作者声明未指向可核实的 GitHub 仓库",
+        "debugger: 原作者声明未指向可核实的 GitHub 仓库",
+        "documentation-generation-doc-generate: 原作者声明未指向可核实的 GitHub 仓库",
+        "autorekt: 原作者声明未指向可核实的 GitHub 仓库",
+        "cloro-mcp: 原作者声明未指向可核实的 GitHub 仓库",
+        "music-for-robots: 原作者声明未指向可核实的 GitHub 仓库",
+        "scrapingbee-cli: 原作者声明未指向可核实的 GitHub 仓库"
+      ]
+    },
+    "newlyPublished": 0,
+    "updated": 0,
+    "dailyUsed": {
+      "skill": 5,
+      "project": 5
+    },
+    "pending": {
+      "skill": 23,
+      "project": 15
+    },
+    "sources": {
+      "github-trending-weekly": {
+        "catalog": 27,
+        "newlyQueued": 12,
+        "updatesQueued": 0,
+        "duplicates": 0,
+        "weeklyRepositories": 14,
+        "checkedRepositories": 14,
+        "checkedSkills": 60,
+        "acceptedSkills": 12,
+        "errors": []
+      }
+    },
+    "policyPublication": {
+      "completedAt": "2026-11-10T12:29:25Z",
+      "newlyPublished": 6,
+      "updated": 0,
+      "dailyUsed": {
+        "skill": 5,
+        "project": 5
+      },
+      "pending": {
+        "skill": 19,
+        "project": 5
+      }
+    }
+  },
+  "dailyStatus": {
+    "date": "2026-11-10",
+    "limits": {
+      "skill": 5,
+      "project": 5
+    },
+    "published": {
+      "skill": 6,
+      "project": 10
+    },
+    "used": {
+      "skill": 5,
+      "project": 5
+    },
+    "recommended": {
+      "skill": 5,
+      "project": 5
+    },
+    "historyOnly": {
+      "skill": 1,
+      "project": 5
+    },
+    "pending": {
+      "skill": 19,
+      "project": 5
+    }
+  },
+  "skillFeed": {
+    "sources": [
+      {
+        "source": "skills.sh",
+        "method": "trending"
+      },
+      {
+        "source": "github-trending-weekly",
+        "method": "github-weekly"
+      }
+    ],
+    "minRepoStars": 1000,
+    "starBasis": "original-source"
+  },
+  "pendingSkills": [
+    {
+      "name": "code-review",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills/tree/main/skills/engineering/code-review",
+      "summary": "Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes: Standards (does the code follow this repo's documented coding standards?) and Spec (does the code match what the originating issue/spec asked for?). Runs both reviews in parallel sub-agents and reports them side by side. Use when the user wants to review a branch, a PR, work-in-progress changes, or asks to \\\"review since X\\\".",
+      "sourceName": "github-trending-weekly",
+      "fileUrl": "https://github.com/mattpocock/skills/blob/4ae2317ddb22b046e26455e4f9c9b3aaaf62212d/skills/engineering/code-review/SKILL.md",
+      "installCommand": "npx skills add mattpocock/skills --skill code-review",
+      "weeklyRank": 8,
+      "weeklyStars": 9800,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "repoStars": 320275,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceRepo": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/engineering/code-review",
+      "sourceStars": 320275,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceStatus": "verified",
+      "sourceArchived": false,
+      "id": "skill:bcdbb59047d78e5d11143bc4",
+      "type": "skill",
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "purposeZh": "并行审查代码是否符合项目规范与需求，汇总两方面的问题。"
+    },
+    {
+      "name": "codebase-design",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills/tree/main/skills/engineering/codebase-design",
+      "summary": "Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module's interface, find deepening opportunities, decide where a seam goes, make code more testable or AI-navigable, or when another skill needs the deep-module vocabulary.",
+      "sourceName": "github-trending-weekly",
+      "fileUrl": "https://github.com/mattpocock/skills/blob/4ae2317ddb22b046e26455e4f9c9b3aaaf62212d/skills/engineering/codebase-design/SKILL.md",
+      "installCommand": "npx skills add mattpocock/skills --skill codebase-design",
+      "weeklyRank": 8,
+      "weeklyStars": 9800,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "repoStars": 320275,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceRepo": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/engineering/codebase-design",
+      "sourceStars": 320275,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceStatus": "verified",
+      "sourceArchived": false,
+      "id": "skill:802c4c19b78eb92cdb85864e",
+      "type": "skill",
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "purposeZh": "设计模块接口、划分边界，让代码更易测试和供 AI 阅读。"
+    },
+    {
+      "name": "diagnosing-bugs",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs",
+      "summary": "Diagnosis loop for hard bugs and performance regressions. Use when the user says \"diagnose\"/\"debug this\", or reports something broken/throwing/failing/slow.",
+      "sourceName": "github-trending-weekly",
+      "fileUrl": "https://github.com/mattpocock/skills/blob/4ae2317ddb22b046e26455e4f9c9b3aaaf62212d/skills/engineering/diagnosing-bugs/SKILL.md",
+      "installCommand": "npx skills add mattpocock/skills --skill diagnosing-bugs",
+      "weeklyRank": 8,
+      "weeklyStars": 9800,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "repoStars": 320275,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceRepo": "mattpocock/skills",
+      "sourceUrl": "https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs",
+      "sourceStars": 320275,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceStatus": "verified",
+      "sourceArchived": false,
+      "id": "skill:9092fb1611342a9f54baccd4",
+      "type": "skill",
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "purposeZh": "按诊断流程定位复杂 Bug 和性能回归问题。"
+    },
+    {
+      "name": "claude-mem-install",
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem/tree/main/claude-mem-cursor/skills/install",
+      "summary": "Use this when setting up claude-mem on Cursor: local or remote worker, local host-login observer or remote cmem.ai inference.",
+      "sourceName": "github-trending-weekly",
+      "fileUrl": "https://github.com/thedotmack/claude-mem/blob/701a504d9bd696a9d338f06615bad82a0562629f/claude-mem-cursor/skills/install/SKILL.md",
+      "installCommand": "npx skills add thedotmack/claude-mem --skill claude-mem-install",
+      "weeklyRank": 11,
+      "weeklyStars": 5130,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "repoStars": 115599,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceRepo": "thedotmack/claude-mem",
+      "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/claude-mem-cursor/skills/install",
+      "sourceStars": 115599,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceStatus": "verified",
+      "sourceArchived": false,
+      "id": "skill:ea215bd0d035f43ac97e4252",
+      "type": "skill",
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "purposeZh": "在 Cursor 配置 claude-mem，支持本地或远程工作进程。"
+    },
+    {
+      "name": "mem-search",
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem/tree/main/claude-mem-cursor/skills/mem-search",
+      "summary": "Use this when the user asks to search memory, \"did we already solve this?\", \"how did we do X last time?\", or wants work from previous sessions.",
+      "sourceName": "github-trending-weekly",
+      "fileUrl": "https://github.com/thedotmack/claude-mem/blob/701a504d9bd696a9d338f06615bad82a0562629f/claude-mem-cursor/skills/mem-search/SKILL.md",
+      "installCommand": "npx skills add thedotmack/claude-mem --skill mem-search",
+      "weeklyRank": 11,
+      "weeklyStars": 5130,
+      "weeklyRankingAt": "2026-11-10T11:22:38Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "repoStars": 115599,
+      "metricsAt": "2026-11-10T11:23:51Z",
+      "sourceRepo": "thedotmack/claude-mem",
+      "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/claude-mem-cursor/skills/mem-search",
+      "sourceStars": 115599,
+      "sourceMetricsAt": "2026-11-10T11:23:51Z",
+      "sourceStatus": "verified",
+      "sourceArchived": false,
+      "id": "skill:c1efba7ccb776751607e90a1",
+      "type": "skill",
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "purposeZh": "检索历次会话的记忆，查找已经解决的问题和处理方法。"
+    }
+  ],
+  "pendingProjects": [
+    {
+      "name": "OpenMausBot",
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "summary": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "sourceName": "github-trending-weekly",
+      "weeklyRank": 4,
+      "weeklyStars": 8325,
+      "weeklyRankingAt": "2026-11-10T11:18:13Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "repoStars": 20360,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "milind-soni/OpenMausBot",
+      "sourceUrl": "https://github.com/milind-soni/OpenMausBot",
+      "sourceStars": 20360,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceStatus": "verified",
+      "sourceArchived": false,
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Dockerfile",
+        "src/App.tsx"
+      ],
+      "projectSourceRef": "9d6678adcaf62645513a3e3419999134742bb458",
+      "id": "project:95e137cccef207d04849c3b5",
+      "type": "project",
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "purposeZh": "提供带虚拟机的开源机器人，让 Bot 在虚拟机中操作。"
+    },
+    {
+      "name": "pr-agent",
+      "repo": "The-PR-Agent/pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "summary": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "sourceName": "github-trending-weekly",
+      "weeklyRank": 10,
+      "weeklyStars": 1822,
+      "weeklyRankingAt": "2026-11-10T11:18:13Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "repoStars": 15805,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "The-PR-Agent/pr-agent",
+      "sourceUrl": "https://github.com/The-PR-Agent/pr-agent",
+      "sourceStars": 15805,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceStatus": "verified",
+      "sourceArchived": false,
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "pyproject.toml",
+        "pr_agent/cli.py"
+      ],
+      "projectSourceRef": "ad02d5b0c41b9b0652a50dc8e4d0c5ed00b18e57",
+      "id": "project:d10ad10854185789421e8e13",
+      "type": "project",
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "purposeZh": "自动审查 GitHub Pull Request，辅助代码评审。"
+    },
+    {
+      "name": "worktrunk",
+      "repo": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "summary": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "sourceName": "github-trending-weekly",
+      "weeklyRank": 5,
+      "weeklyStars": 2395,
+      "weeklyRankingAt": "2026-11-10T11:18:13Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "repoStars": 12339,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "max-sixty/worktrunk",
+      "sourceUrl": "https://github.com/max-sixty/worktrunk",
+      "sourceStars": 12339,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceStatus": "verified",
+      "sourceArchived": false,
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Cargo.toml",
+        "src/cache.rs"
+      ],
+      "projectSourceRef": "88c111d66804fac398c063b228568a56c8854702",
+      "id": "project:236b7c0cafd35de58ca9db00",
+      "type": "project",
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "purposeZh": "管理 Git worktree，支持多个 AI Agent 并行开发。"
+    },
+    {
+      "name": "auto-ontology",
+      "repo": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "sourceName": "github-trending-weekly",
+      "weeklyRank": 1,
+      "weeklyStars": 10159,
+      "weeklyRankingAt": "2026-11-10T11:18:13Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "repoStars": 11294,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "NVIDIA/auto-ontology",
+      "sourceUrl": "https://github.com/NVIDIA/auto-ontology",
+      "sourceStars": 11294,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceStatus": "verified",
+      "sourceArchived": false,
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Dockerfile",
+        "auto_ontology/env.py"
+      ],
+      "projectSourceRef": "fc43a82600e18b19d159c52023f54f5572f537ac",
+      "id": "project:b595a9b9d31f60852d724cdd",
+      "type": "project",
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "purposeZh": "基于数据构建语义图谱，为 LLM 和 Agent 提供检索与推理上下文。"
+    },
+    {
+      "name": "hex",
+      "repo": "anomalyco/hex",
+      "url": "https://github.com/anomalyco/hex",
+      "summary": "Local voice dictation for mac, windows and linux",
+      "sourceName": "github-trending-weekly",
+      "weeklyRank": 13,
+      "weeklyStars": 2031,
+      "weeklyRankingAt": "2026-11-10T11:18:13Z",
+      "weeklyRankingUrl": "https://github.com/trending?since=weekly",
+      "repoStars": 6059,
+      "metricsAt": "2026-11-10T12:29:25Z",
+      "sourceRepo": "anomalyco/hex",
+      "sourceUrl": "https://github.com/anomalyco/hex",
+      "sourceStars": 6059,
+      "sourceMetricsAt": "2026-11-10T12:29:25Z",
+      "sourceStatus": "verified",
+      "sourceArchived": false,
+      "projectStatus": "verified",
+      "projectReason": "",
+      "projectVerifiedAt": "2026-11-10T12:29:25Z",
+      "projectEvidence": [
+        "README.md",
+        "Cargo.toml",
+        "src/accessibility.rs"
+      ],
+      "projectSourceRef": "6fa9f18bf4e81c557eca82f8dda31d6c749f6d7c",
+      "id": "project:563f6e96d80f752643442677",
+      "type": "project",
+      "recommendation": {
+        "eligible": true,
+        "reason": "eligible",
+        "minRepoStars": 1000
+      },
+      "purposeZh": "在 Mac、Windows 和 Linux 上进行本地语音输入。"
+    }
+  ]
+};

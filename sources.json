@@ -1,0 +1,120 @@
+{
+  "baselineLookbackHours": 24,
+  "dailyLimits": {"skill": 5, "project": 5},
+  "recommendationPolicy": {
+    "minRepoStars": 1000,
+    "starBasis": "original-source",
+    "projectScope": "independent-software",
+    "quotaBasis": "active-recommendations"
+  },
+  "skillFeed": {
+    "sources": [
+      {"source": "skills.sh", "method": "trending"},
+      {"source": "github-trending-weekly", "method": "github-weekly"}
+    ],
+    "minRepoStars": 1000,
+    "starBasis": "original-source"
+  },
+  "purposeTranslations": {
+    "https://github.com/dearonski/nimbus": {"hash": "67fdbb5396661e27c64190ab8f0949c8d3158064e9e2e43c8f65e0aefa3a2ede", "text": "原生 SoundCloud 客户端，支持无缝播放、拖拽队列与 Chromecast。"},
+    "https://github.com/jomonkj/claude-accounts": {"hash": "6d0e44c7315f2ef22877aa10289918d2ca145719537e26f60473b7cc29f49101", "text": "一键切换 Claude 桌面端账号，保留已有会话。"},
+    "https://github.com/burakfixlab/fixstat": {"hash": "6ba79aa50c86e376260ffff664f492d8c200beb07815ae7edebc041c0328fdd3", "text": "在 Mac 菜单栏查看传感器、电池与磁盘数据，辅助硬件故障诊断。"},
+    "https://github.com/hridaya423/cue": {"hash": "8e2f53d37efb894a9aafbc6c429e857757b9c663ff52c1f373a156284e6b3e0e", "text": "根据当前输入框，从剪贴板中提取并粘贴适合的邮箱、电话等内容。"},
+    "https://github.com/ark0n/logolight": {"hash": "e04f4ac82e0bcf409f40fa3c5266dabd3f07bd9905d8114725237dc14a63d53a", "text": "控制支持 PROLED XDR 的 MacBook Pro 发光标志，调整亮度或动画。"},
+    "https://github.com/shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/gemini_agentic_rag": {"hash": "cbdbc1c96b394f61c3e766ecec9c72f468327535a2b7ede7d2cbb529b50276ea", "text": "用 Gemini Flash Thinking 改写查询，检索不足时补充网页搜索。"},
+    "https://github.com/shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/rag_agent_cohere": {"hash": "3c64e20088ce9ed588320250e527d6cbb6d0c1626885b63d209ea447020b17f0", "text": "用 Cohere Command R7B 检索内容，必要时补充网页搜索。"},
+    "https://github.com/shubhamsaboo/awesome-llm-apps/tree/main/rag_tutorials/rag_database_routing": {"hash": "3435b2420e8ae62e801308b409befcdfa24891e7fd580cb15dc89afc9110357e", "text": "根据问题自动选择对应数据库，完成检索与问答。"},
+    "https://github.com/thedotmack/claude-mem": {"hash": "03a82fbb0934c9594ae7439ecada087a3c2786c6ed7bc0e1822a37940102ddfa", "text": "记录并压缩 Agent 会话，在后续会话中恢复相关上下文。"},
+    "https://github.com/d4vinci/scrapling": {"hash": "6318fc51fc2f0475a322ddff78ca2010a92967dacd32831f05334bce7ab30fe3", "text": "网页数据抓取框架，支持从单次请求到完整网站爬取。"},
+    "https://github.com/pingdotgg/t3code": {"hash": "fcd333089093f900423e21166e9f4f096281419d5f0ce01fe4fe0397bb15269e", "text": "通过桌面、网页和手机界面管理本机的编程 Agent。"},
+    "https://github.com/vercel-labs/agent-browser": {"hash": "ab3c696311d90385fbddb569b23cb6454a7d353951b2e01aba900f4999f9c23a", "text": "供 AI Agent 操作浏览器的命令行工具。"},
+    "https://github.com/vercel-labs/agent-desktop": {"hash": "3c90e5cde16dafd9aa42f619ea437bb97d66ce30168dc05717a7c57f91f70106", "text": "供 AI Agent 操作电脑界面的命令行工具。"},
+    "https://github.com/milind-soni/openmausbot": {"hash": "f8aadbd951ca3c3f1c428a4c5750957698b36f7f90f375b3572508e2a8ee7996", "text": "提供带虚拟机的开源机器人，让 Bot 在虚拟机中操作。"},
+    "https://github.com/the-pr-agent/pr-agent": {"hash": "1e312653eb5d58be64f6dd3f9d7bd4e49334e78c83036cae9e2b183aa88093ac", "text": "自动审查 GitHub Pull Request，辅助代码评审。"},
+    "https://github.com/max-sixty/worktrunk": {"hash": "bacdbcc2e4634e8acd8f345c5bd3d212127f65025abe3fea16024faad7b7d245", "text": "管理 Git worktree，支持多个 AI Agent 并行开发。"},
+    "https://github.com/nvidia/auto-ontology": {"hash": "dd43a796a5f2dea995b7d285834253c79465141e6aa5da31cedc9e8e6e77c0cc", "text": "基于数据构建语义图谱，为 LLM 和 Agent 提供检索与推理上下文。"},
+    "https://github.com/anomalyco/hex": {"hash": "25fede03217f9f1cb9014094c19088ba3edfe68889b6ae8e70c9937a97b8090b", "text": "在 Mac、Windows 和 Linux 上进行本地语音输入。"},
+    "https://github.com/cloudflare/security-audit-skill/tree/main/skills/security-audit": {"hash": "cf5a91179566a6aafba3b878235d41a15c9dd4851726ea443a132707539126ac", "text": "审查代码、API 与服务的安全风险，并按需求输出审计结果。"},
+    "https://github.com/d4vinci/scrapling/tree/main/agent-skill/Scrapling-Skill": {"hash": "d7f24ca222af69d46b4110d4a51f2052039c8ea31aec896d4ce99becea62cfe0", "text": "用 Scrapling 抓取网页数据，支持浏览器渲染、并发爬取和自适应解析。"},
+    "https://github.com/donchitos/claude-code-game-studios/tree/main/.claude/skills/adopt": {"hash": "11fee096ef7f2abd7ec0eeaec3cbeb72c7ff7483cffe29131246ca0dd972640f", "text": "检查既有项目产物是否符合规范，并制定迁移计划。"},
+    "https://github.com/donchitos/claude-code-game-studios/tree/main/.claude/skills/architecture-decision": {"hash": "d93efad4c538f90230f4b4c2476ad31a1a53d2bb4f6da1e3169762eb07336611", "text": "用 ADR 记录技术决策的背景、备选方案与影响。"},
+    "https://github.com/mattpocock/skills/tree/main/skills/engineering/codebase-design": {"hash": "4c985654adc7d9a577ad566fecb7c0547509d0cbc86d7e72fec1dadbf06be040", "text": "设计模块接口、划分边界，让代码更易测试和供 AI 阅读。"},
+    "https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs": {"hash": "82a65170e91af43fece3dda83258f23ad30032850665ca65c0b7de55210bea73", "text": "按诊断流程定位复杂 Bug 和性能回归问题。"},
+    "https://github.com/thedotmack/claude-mem/tree/main/claude-mem-cursor/skills/mem-search": {"hash": "219c47429d1d0c4d75a04625770ad8225ce3b7ee78e168e6e866afcacdb596ee", "text": "检索历次会话的记忆，查找已经解决的问题和处理方法。"},
+    "https://github.com/vercel-labs/agent-browser/tree/main/.agents/skills/technical-writer": {"hash": "fcc3f8e7246138b6e562a3adfe7e319d37b5a524d8d5831cc3c1c61c3b0d12c3", "text": "撰写或审阅开发者文档，涵盖入门、教程、API 参考与故障排查。"},
+    "https://github.com/vercel-labs/agent-browser/tree/main/skill-data/agentcore": {"hash": "1e29717219c57a621a4c896d09b8a346b09ae4f2b2db71c510d33032fd8334da", "text": "在 AWS Bedrock AgentCore 云浏览器上运行 agent-browser 自动化。"},
+    "https://github.com/mattpocock/skills/tree/main/skills/engineering/ask-matt": {"hash": "f32f12b544b2f599881678a7f3f4bd1bfc29d7be24a91180c434fa2c79042436", "text": "根据当前任务，从 Matt 的技能库中选择合适的技能或流程。"},
+    "https://github.com/mattpocock/skills/tree/main/skills/engineering/code-review": {"hash": "f49caa9472267c641327fea30e4be864b9a071f9521a6df975e2384f16c46684", "text": "并行审查代码是否符合项目规范与需求，汇总两方面的问题。"},
+    "https://github.com/thedotmack/claude-mem/tree/main/claude-mem-cursor/skills/install": {"hash": "bc12d5a0ca7ba0209d5abb6c60ab24bfd6db5b362854769342d5d0b5bab6b924", "text": "在 Cursor 配置 claude-mem，支持本地或远程工作进程。"},
+    "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/teardown": {"hash": "7e2fcf5cd20dfe5cee1f950bdf0d6e38a78e6a864d2f623df86890cf567888cb", "text": "绘制物体拆解与工作原理的技术插图。"},
+    "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/better-colors": {"hash": "5873d3a4037cd93ab3494b97f193e95701805c2a3ffc742105dee2f959b61912", "text": "生成配色、定义颜色变量，并检查对比度。"},
+    "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/untangle-codebase": {"hash": "9a773ed804b93e19f6b86afe9813d49b4f7e25fe7f406cb2c8c4ec661433abec", "text": "梳理代码库，减少 Agent 阅读与排查的成本。"},
+    "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/imagera-media": {"hash": "46e54281300121d162ce72278f2e58c87fb02d0785d17637fc3e7dd9b565809e", "text": "通过 Imagera 生成或编辑图像、视频和音频，按次确认付费。"},
+    "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/treg": {"hash": "07010bba6a63bb35ccdd0ea482c2fe6cfed0c7d7a231b2a10ecd38f2ba198263", "text": "查询外部工具价格，并在授权与预算内调用。"}
+  },
+  "legacySkillCuration": {
+    "scope": "首批 9 个 skills.sh 候选",
+    "decisions": [
+      {"id": "phuryn/pm-skills/create-prd", "url": "https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/create-prd", "capability": "需求文档", "decision": "keep", "reason": "默认一至两页，包含用户分群、JTBD、目标和范围，更适合产品日常需求讨论。"},
+      {"id": "wshobson/agents/competitive-landscape", "url": "https://github.com/wshobson/agents/tree/main/plugins/startup-business-analyst/skills/competitive-landscape", "capability": "竞品分析", "decision": "keep", "reason": "提供竞品画像、定价比较与定位框架，覆盖产品研究中的独立任务。"},
+      {"id": "firecrawl/anydoc/convert-documents-to-markdown", "url": "https://github.com/firecrawl/anydoc/tree/main/skills/convert-documents-to-markdown", "capability": "文档转 Markdown", "decision": "keep", "reason": "跨格式提取可读文本，补充已有办公编辑能力；普通文档可本地转换，扫描件 OCR 另需托管服务。"},
+      {"id": "vercel-labs/agent-browser/agent-browser", "url": "https://github.com/vercel-labs/agent-browser/tree/main/skills/agent-browser", "capability": "浏览器自动化", "decision": "keep", "reason": "覆盖网页操作、抓取与状态复用，提供 Electron 等扩展工作流；作为已有 Playwright 测试能力的补充。"},
+      {"id": "conardli/garden-skills/web-video-presentation", "url": "https://github.com/conardli/garden-skills/tree/main/skills/web-video-presentation", "capability": "网页产品演示", "decision": "keep", "reason": "把文章或口播转成可录屏的网页 demo，与普通文档和静态幻灯片产出不同；配音可选。"},
+      {"id": "github/awesome-copilot/prd", "url": "https://github.com/github/awesome-copilot/tree/main/skills/prd", "capability": "需求文档", "decision": "exclude", "alternative": "phuryn/pm-skills/create-prd", "reason": "与 create-prd 同能力；本轮优先简洁的产品决策模板，技术详版留作参考。"},
+      {"id": "microsoft/playwright-cli/playwright-cli", "url": "https://github.com/microsoft/playwright-cli/tree/main/skills/playwright-cli", "capability": "浏览器自动化", "decision": "exclude", "alternative": "vercel-labs/agent-browser/agent-browser", "reason": "与 agent-browser 的网页操作任务重叠，当前已有 Playwright 测试能力，本轮不重复占名额。"},
+      {"id": "googleworkspace/cli/recipe-create-presentation", "url": "https://github.com/googleworkspace/cli/tree/main/skills/recipe-create-presentation", "capability": "Google Slides 创建", "decision": "exclude", "reason": "依赖 gws、gws-slides 和 Google 认证；当前已知工作场景以飞书为主，且此 recipe 主要是新建和共享文稿。"},
+      {"id": "obra/superpowers/systematic-debugging", "url": "https://github.com/obra/superpowers/tree/main/skills/systematic-debugging", "capability": "故障定位", "decision": "exclude", "reason": "提供排查方法，和当前已有调试能力重合度较高；本轮优先保留直接补充产出的工具。"}
+    ]
+  },
+  "sources": [
+    {"repo": "VoltAgent/awesome-agent-skills", "parser": "skills-readme"},
+    {"repo": "sickn33/agentic-awesome-skills", "parser": "skills-index"},
+    {"repo": "Shubhamsaboo/awesome-llm-apps", "parser": "llm-apps"},
+    {"repo": "jaywcjlove/awesome-mac", "parser": "projects-readme"},
+    {"repo": "awesome-selfhosted/awesome-selfhosted", "parser": "projects-readme"},
+    {"repo": "521xueweihan/HelloGitHub", "parser": "hellogithub"},
+    {
+      "repo": "github-trending-weekly",
+      "url": "https://github.com/trending?since=weekly",
+      "parser": "github-trending-weekly",
+      "maxRepoChecks": 30,
+      "maxSkillChecks": 60,
+      "maxSkillChecksPerRepo": 12,
+      "maxNewSkills": 15,
+      "maxSkillsPerRepo": 2,
+      "minSkillStars": 1000,
+      "excludeSkillRepos": ["anthropics/skills"],
+      "indexRepos": ["VoltAgent/awesome-agent-skills", "sickn33/agentic-awesome-skills"]
+    },
+    {
+      "repo": "skills.sh",
+      "url": "https://skills.sh/trending",
+      "parser": "skills-trending",
+      "minInstalls24h": 100,
+      "minRepoStars": 1000,
+      "maxNewPerRun": 15,
+      "maxChecksPerRun": 80,
+      "maxPerRepo": 2,
+      "excludeRepos": ["anthropics/skills"],
+      "excludeIds": [],
+      "purposeTranslations": {
+        "remotion-dev/skills/remotion-render": {"hash": "be04ed0f95f06386411b6b5c4e9c684bbefbb33158ce0e6e51a323bdd9814a1e", "text": "导出 Remotion 视频。"},
+        "remotion-dev/skills/remotion-best-practices": {"hash": "9bdabf1433d74fc66c83604d5bfe80abd828a217aa95268a10e5d91acc2c76e6", "text": "按任务选择和调用 Remotion 视频制作技能。"},
+        "microsoft/azure-skills/azure-validate": {"hash": "caee25ae127c09882b5ac95b3776fb73ced51c72b5a041d6612cdf27029d665e", "text": "部署到 Azure 前，检查配置、基础设施与权限是否就绪。"},
+        "microsoft/azure-skills/microsoft-foundry": {"hash": "c557e6f78065f0c6d81c82246b1714a0b7ab3e474d8edc851186deda2a55d4d4", "text": "在 Microsoft Foundry 构建、部署和评估 Agent 与模型。"},
+        "heygen-com/hyperframes/hyperframes": {"hash": "a46960695d540ed2c764f5af069ce022db657a1fd15d5346ef06a6280f4546c6", "text": "用 HTML 制作、编辑和渲染视频，包含图表、字幕与动画。"},
+        "heygen-com/hyperframes/hyperframes-cli": {"hash": "bf801b2dccbb976e7a5431925f82045203cbfbeec3d391ed52aa5f0574423033", "text": "用 HyperFrames CLI 创建、预览和渲染视频项目。"},
+        "vercel-labs/skills/find-skills": {"hash": "a11d2df693eadb4d60d602accc9b876d6d91a81ad54719c019c0a1ae84f9fee0", "text": "根据任务查找并安装可用的 Agent 技能。"},
+        "github/awesome-copilot/prd": {"hash": "7ae10b79c69da66c0dd59104e4ebc42c954519e34ec42e8eff375c9210b1a783", "text": "把软件或 AI 功能需求整理成 PRD，包含用户故事、技术规格和风险分析。"},
+        "phuryn/pm-skills/create-prd": {"hash": "6a5052fbc96be7a4d14112f94f804af30e42fca655eb31952b67f338ede2ce96", "text": "用八段模板撰写或审阅 PRD，默认控制在一至两页，突出产品决策。"},
+        "wshobson/agents/competitive-landscape": {"hash": "641282babb97e5f98fd90b1983bdc302f9cf65afb34518ccf4e25561f4df0c20", "text": "分析竞品、市场定位和差异化机会，辅助制定竞争策略。"},
+        "googleworkspace/cli/recipe-create-presentation": {"hash": "333a9f80481ef251d92ab72ce891a8ba4fb1aa970590a341e4537837f268ff0e", "text": "在 Google Slides 新建演示文稿并添加初始页面。"},
+        "firecrawl/anydoc/convert-documents-to-markdown": {"hash": "7f7006de84f2a9e68a3f64efe627bae454543a020bc45933c2317b9ed7eebc1c", "text": "把 Word、Excel、PPT、PDF 等文件转成 Markdown，方便读取和继续处理。"},
+        "conardli/garden-skills/web-video-presentation": {"hash": "424ca7f472631823c86b35a8cf76bb40dc084cc7d1251436e0e96c3003afb89a", "text": "把文章或口播稿做成点击推进的网页演示，可选合成配音并录屏。"},
+        "vercel-labs/agent-browser/agent-browser": {"hash": "1f62794d2ac3cd66ac49ddc0a3ad9bb8b96f11a7eac8d36dcf5369fa3a1f1559", "text": "让 Agent 操作网页，完成表单填写、数据提取和网页测试等任务。"},
+        "obra/superpowers/systematic-debugging": {"hash": "fe1646a8d57722f451f70659ea945a7efe015c550756c872d21c52474cbc6bb0", "text": "遇到 Bug、测试失败或异常行为时，先按流程定位原因，再提出修复。"},
+        "microsoft/playwright-cli/playwright-cli": {"hash": "c3ac966f4695a7c902bced890a9b1f1a3d5369843e8a0734e4ae6de25a70215f", "text": "用 Playwright CLI 自动操作浏览器、测试网页并处理测试脚本。"}
+      }
+    }
+  ]
+}
